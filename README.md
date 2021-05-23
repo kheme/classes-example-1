@@ -16,5 +16,5 @@ The console has 2 remote controllers and 2 wired controllers.
 The TV #1 has 2 remote controllers and the TV #2 has 1 remote controller.
  
 ## Task
-* Sort the items by price and print out the total pricing
-* Print out the cost of the console and its controllers
+* Sort the items by price and print out the total pricing   (index.php : lines 267, 268)
+* Print out the cost of the console and its controllers     (index.php : line 269)
